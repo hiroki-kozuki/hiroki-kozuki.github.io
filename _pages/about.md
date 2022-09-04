@@ -2,26 +2,36 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.imperial.ac.uk/physics'>Imperial College London, Department of Physics</a>. Blackett Laboratory, SW7 2BX
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Contacts:</p>
+    <p>(Personal) kozukihiroki@gmail.com</p>
+    <p>(Academic) hk621@ic.ac.uk</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-This is my website. I am excited to embark on a new project. Hello world. This is my 4th attempt at making this website.
+Hello, I am Hiroki Kozuki, a Japanese 2nd year undergraduate student at Imperial College London pursuing a degree in Physics with Theoretical Physics.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I created this website as an archive for my project protfolios, CV, essays, hobbies, and some (hopefully) interesting things about myself, all found in one place. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+As a starter, I will introduce my background, main interests, and aspirations. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I was born in Tokyo and lived in Yokohama and Geneva for 7 and 11 years respectively before moving to London to pursue my university education. 
+
+My academic interests span from the broad depths of physics to maths, programming, chemistry, and many other STEM areas, with a focus on high-energy physics (I like smashing particles together). 
+
+On a more casual note, I enjoy reading philosophy books, Japanese literature, some popular science books, and Sci-Fi. I'm also quite a big fan of anime with my favourite franchise being "Ghost in the Shell".
+
+My carrier aspiration is to become a researcher with doors opened to either academia or industry R&D. (Or perhaps both!)
+
+I hope you enjoy your time here, and feel free to contact me if you have any queries or ideas for collaboration :D
+
+
