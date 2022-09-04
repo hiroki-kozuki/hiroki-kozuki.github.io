@@ -22,7 +22,7 @@ Hello, I am Hiroki Kozuki, a Japanese 2nd year undergraduate student at Imperial
 
 I created this website as an archive for my project protfolios, CV, essays, hobbies, and some (hopefully) interesting things about myself, all found in one place. 
 
-As a starter, I will introduce my background, main interests, and aspirations. 
+As a starter, I will introduce my background and main interests. 
 
 I was born in Tokyo and lived in Yokohama and Geneva for 7 and 11 years respectively before moving to London to pursue my university education. 
 
