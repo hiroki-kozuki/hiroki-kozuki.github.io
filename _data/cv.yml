@@ -110,7 +110,7 @@
 - title: <b>Projects</b>
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+    - title: <a href="#">Invesigating the Conditions under which Dice Rolls become Random</a>
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
