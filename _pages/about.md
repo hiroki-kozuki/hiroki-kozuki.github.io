@@ -30,7 +30,7 @@ My academic interests span from the broad depths of physics to maths, programmin
 
 On a more casual note, I enjoy reading philosophy books, Japanese literature, some popular science books, and Sci-Fi. I'm also quite a big fan of anime with my favourite franchise being "Ghost in the Shell".
 
-My carrier aspiration is to become a researcher with doors opened to either academia or industry R&D. (Or perhaps both!)
+My career aspiration is to become a researcher with doors opened to either academia or industry R&D. (Or perhaps both!)
 
 I hope you enjoy your time here, and feel free to contact me if you have any queries or ideas for collaboration :D
 
