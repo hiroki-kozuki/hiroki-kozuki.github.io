@@ -1,35 +1,47 @@
-- title: General Information
+- title: <b>General Information</b>
   type: map
   contents:
     - name: Full Name
       value: Hiroki Kozuki
     - name: Date of Birth
       value: 31st March 2003
+    - name: Address
+      value: Nutford House, Brown St, London, W1H 5UL
+    - name: Institution
+      value: Imperial College London, Blackett Laboratory
+    - name: Couse
+      value: MSci Physics with Theoretical Physics (F390)
     - name: Languages
       value: English, Japanese, French
 
-- title: Education
+- title: <b>Education</b>
   type: time_table
   contents:
-    - title: MSci Physics with Theoretical Physics
+    - title: Bachelor's degree
       institution: Imperial College London, London, United Kingdom
-      year: 2021-
+      year: Sep 2021-
       description:
-        - title: Grades
+        - title: <b>Grades&#58;</b>
           contents:
             - Year 1 average&#58; 1st (74%) 
-        - title: Modules
+        - title: <b>Year 1 Module Grades&#58;<b> 
           contents:
-            - Year 1 - 
-        - title: Societies
+            - Oscillations and Waves (81%)
+            - Vector Fields, Electricity and Magnetism (80%)
+            - Practical Physics&#58; Laboratory, Computing and Problem Solving (78%)
+            - Statistics of Measurement and the Summer Project (69%)
+            - Mechanics and Relativity (67%)
+            - Mathematical Analysis (66%).
+        - title: <b>Societies&#58;</b>
           contents:
-            - Year 1
+            - Year 1&#58; Physics Society, Japanese Society.
     - title: IB Bilingual Diploma
       institution: International School of Geneva Campus des Nations, Geneva, Switzerland
-      year: 2011-2021
+      year: Sep 2011 - July 2021
       description:
-        - Grade 44/45
-        - title: Subjects
+        - <b>Grade&#58;</b> 44/45
+        - Graduated with an Extended Essay Award
+        - title: <b>Subject Grades&#58;</b>
           contents:
             - Physics HL (7)
             - Mathematics AA HL (7)
@@ -39,8 +51,18 @@
             - Japanese A LL SL (6)
             - Physics Extended Essay (A)
             - TOK (A)
+        - title: <b>Extracurricular Activities&#58;</b>
+          contents:
+            - Founder of STEM Club
+            - Co-founder of Beamline Club (particle physics)
+            - Co-founder of World Games Club
+            - Competitive Tennis (Swiss Tennis)
+            - Paddle for Cancer Dragon Boat Race
+            - Basketball
+            - Badminton
+                        
 
-- title: Experience
+- title: <b>Experience</b>
   type: time_table
   contents:
     - title: Scientific Researcher (Beamline for Schools)
@@ -68,37 +90,76 @@
         - Internship involved interviewing prominent high-energy physicists at CERN, reviewing articles, researching in a team, and writing a report which elaborated our findings.
         - Supervised by <a href='https://www.linkedin.com/in/pablo-garcia-tello-031a3b19/'>Dr. Pablo Garcia Tello</a> and <a href='https://www.linkedin.com/in/markusnordberg/'>Dr. Markus Nordberg</a>.
 
-- title: Open Source Projects
+- title: <b>Skills</b>
+  type: time_table
+  contents:
+    - title: Languages
+      institution: Japanese (native), English (fluent), French (DELF B2)
+    - title: Programming
+      institution: Python, Numpy, Scipy, Matplotlib, Ruby, RubyGems,        
+    - title: Web Design
+      institution: HTML, Markdown, YAML   
+    - title: Technologies
+      institution: Visual Studio Code, GitHub, Anaconda distribution, Spyder IDE, Jupyter Notebook, Jekyll, Thorlabs
+    - title: IT Skills
+      institution: Microsoft Excel, Word, PowerPoint, OneNote, Windows, Ubuntu
+    - title: Attributes
+      institution: Problem Solving, Critical Thinking, Numerical Reasoning, Teamworking, Communication Skills, Open-minded
+    
+    
+- title: <b>Projects</b>
   type: time_table
   contents:
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
+- title: <b>Honors and Awards</b>
   type: time_table
   contents:
-    - year: 1921
+    - year: 2021
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Extended Essay Award (issued by the International School of Geneva) 
+    - year: 2020
       items: 
-        - Max Planck Medal
+        - Winning team - CERN & DESY Beamline for Schools Competition 2019-2020 (issued by CERN and DESY)
+    - year: 2018
+      items: 
+        - Certificate of Distinction - UK Bebras Computing Challenge (issued by the University of Oxford and the Raspberry Pi Foundation)
+    - year: 2017
+      items: 
+        - Advanced to World Stage - The World Scholar's Cup (issued by the World Scholar's Cup)
+        
+- title: <b>Qualifications</b>
+  type: time_table
+  contents:
+    - title: DELF B2
+      institution: The French Ministry of Education
+      description: No expiration date
 
-- title: Academic Interests
+- title: <b>Academic Interests</b>
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: <b>STEM</b>
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - High-energy, Particle Physics
+        - Relativity Theory
+        - Quantum Physics
+        - Condensed Matter
+        - Stochastic Systems
+        - Information Theory
+        - Electrochemistry
+        - 
+    - title: <b>Humanities & Languages</b>
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+        - Contemporary Japanese Literature
+        - Cognitive and Behavioural Psychology
+        - Micro and Macro Economics
+        - Epystemology
+        - Ethics
+        - Metaphysics
+        
+- title: <b>Other Interests</b>
   type: list
   contents:
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
