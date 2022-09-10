@@ -3,6 +3,8 @@
   contents:
     - name: Full Name
       value: Hiroki Kozuki
+    - name: Nationality
+      value: Japanese
     - name: Date of Birth
       value: 31st March 2003
     - name: Address
