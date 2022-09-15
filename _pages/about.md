@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, I am Hiroki Kozuki, a Japanese 2nd year undergraduate student at Imperial College London pursuing a degree in Physics with Theoretical Physics.
+Hello, I'm Hiroki Kozuki, a Japanese 2nd year undergraduate student at Imperial College London pursuing a degree in Physics with Theoretical Physics.
 
 I created this website as an archive for my project protfolios, CV, essays, hobbies, and some (hopefully) interesting things about myself, all found in one place. 
 

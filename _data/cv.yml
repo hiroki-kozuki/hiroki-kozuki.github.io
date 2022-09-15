@@ -5,16 +5,16 @@
       value: Hiroki Kozuki
     - name: Nationality
       value: Japanese
-    - name: Date of Birth
-      value: 31st March 2003
-    - name: Address
-      value: Nutford House, Brown St, London, W1H 5UL
+    - name: Birth Year
+      value: 2003
+    - name: Location
+      value: Inner London, United Kingdom
     - name: Institution
       value: Imperial College London, Blackett Laboratory
     - name: Couse
       value: MSci Physics with Theoretical Physics (F390)
     - name: Languages
-      value: English, Japanese, French
+      value: English, Japanese, French, Mandarin
 
 - title: <b>Education</b>
   type: time_table
@@ -96,15 +96,15 @@
   type: time_table
   contents:
     - title: Languages
-      institution: Japanese (native), English (fluent), French (DELF B2)
+      institution: Japanese (native), English (fluent), French (DELF B2), Mandarin (elementary)
     - title: Programming
       institution: Python, Numpy, Scipy, Matplotlib, Ruby, RubyGems,        
     - title: Web Design
       institution: HTML, Markdown, YAML   
-    - title: Technologies
-      institution: Visual Studio Code, GitHub, Anaconda distribution, Spyder IDE, Jupyter Notebook, Jekyll, Thorlabs
     - title: IT Skills
-      institution: Microsoft Excel, Word, PowerPoint, OneNote, Windows, Ubuntu
+      institution: Visual Studio Code, GitHub, Anaconda distribution, Spyder IDE, Jupyter Notebook, Jekyll, Thorlabs, Windows, Ubuntu, Microsoft Excel, Word, PowerPoint, OneNote
+    - title: IT Skills
+      institution: 
     - title: Attributes
       institution: Problem Solving, Critical Thinking, Numerical Reasoning, Teamworking, Communication Skills, Open-minded
     
